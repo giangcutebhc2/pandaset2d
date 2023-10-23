@@ -10,5 +10,7 @@ I created a semantic segmentation model for archiving better mIoU, using DiceLos
 # Here is the model:
 ![image](https://github.com/giangcutebhc2/pandaset2d/assets/104675768/6574ee2e-3b5a-41ea-a1b6-5f22addde579)
 
+This model is improved from Residual UNet.
+
 
 
